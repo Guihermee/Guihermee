@@ -1,7 +1,7 @@
 <h3>Olá eu sou Guilherme Cerniauskas</h3>
 <!-- <p>
   <img alt="Java" src="https://img.shields.io/badge/JAVA-f7df1c?style=flat-square&logo=JAVA&logoColor=black" />
-</p> 
+</p> -->
 
 <h3>Contatos</h3>
 <div id="badges">
