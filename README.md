@@ -4,7 +4,7 @@ Hi 👋 My name is Guilherme Cerniauskas
 Full Stack Mobile Developer
 ---------------------------
 
-I've been learning to code for 3 years, after switching careers. I started with Web development, but have really found a passion for mobile development.
+I've been learning to code since 2022, after switching careers. I started with Web development, but have really found a passion for mobile development.
 
 *   🌍  I'm based in São Paulo, Brazil
 *   🧠  I'm learning KMP - Kotlin Multiplataform
